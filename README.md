@@ -35,6 +35,9 @@ Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
 <code><a href="https://www.java.com/tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SefaAkdeniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ![Ismail Sefa's github stats](https://github-readme-stats.vercel.app/api?username=SefaAkdeniz&show_icons=true&line_height=30)
 
 
