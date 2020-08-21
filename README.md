@@ -1,11 +1,11 @@
 ### Hello World! 
-
+![Visitor Count](https://profile-counter.glitch.me/SefaAkdeniz/count.svg)<br>
 I’m Studying Software Engineer at MCBU<br>
 I Wonder Data Science<br>
 I Like Play Computer Games<br>
 
 Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
-![Visitor Count](https://profile-counter.glitch.me/SefaAkdeniz/count.svg)
+
 
 **📫 Where to find me:** 
 
