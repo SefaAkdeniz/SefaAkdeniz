@@ -5,6 +5,7 @@ I Wonder Data Science<br>
 I Like Play Computer Games<br>
 
 Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
+![Visitor Count](https://profile-counter.glitch.me/SefaAkdeniz/count.svg)
 
 **📫 Where to find me:** 
 
