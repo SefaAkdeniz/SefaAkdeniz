@@ -11,6 +11,10 @@ Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ismailsefa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismailsefa/)](https://www.linkedin.com/in/ismailsefa/) 
 [![Gmail Badge](https://img.shields.io/badge/-ismailsefa.akdnz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismailsefa.akdnz@gmail.com)](mailto:ismailsefa.akdnz@gmail.com)
+<a href="https://www.instagram.com/ismailsefa.py/" target="_blank">
+  <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/ismailsefa.py/">
+</a>
+
 
 **💼 Currently working as:** Software Engineer Intern at <a href="https://www.vegayazilim.com.tr/" target="_blank"><b>Vega Yazılım</b></a>
 
