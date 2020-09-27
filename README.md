@@ -4,7 +4,6 @@ I’m Studying Software Engineer at MCBU<br>
 I Wonder Data Science<br>
 I Like Play Computer Games<br>
 
-Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
 
 
 **📫 Where to find me:** 
@@ -15,8 +14,6 @@ Portfolio site: [Portfolio](https://ismailakdeniz.com.tr/)
   <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/ismailsefa.py/">
 </a>
 
-
-**💼 Currently working as:** Software Engineer Intern at <a href="https://www.vegayazilim.com.tr/" target="_blank"><b>Vega Yazılım</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
