@@ -43,7 +43,7 @@ I Like Play Computer Games<br>
 <code><a href="https://developer.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://angularjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
 ![Ismail Sefa's github stats](https://github-readme-stats.vercel.app/api?username=SefaAkdeniz&show_icons=true&line_height=30)
